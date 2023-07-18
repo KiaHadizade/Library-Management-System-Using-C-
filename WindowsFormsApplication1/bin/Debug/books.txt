@@ -1,0 +1,8 @@
+CSharp,David mm,Thomas,350,35
+OOP,Clark,Davis,400,10
+Cause & Effect,Patricia Ackert,fourth,60000,40
+Steps to Understanding,Hill Leslie Alexander,fourteen,120000,30
+Network plus,Tamara Dean,fifth,40000,20
+Programmin in C#,Qhomi,fifth,305000,12
+Driving Licence,Traffic Police,Avigheh,240000,120
+gg,gg,gg,45,345

@@ -1,0 +1,7 @@
+Hashir,hashir@gmail.com,Jauhar,654321,500
+Hadi,Anis Rehman,North,22,333
+AmirHossein Hadizade,99125575,4990213971,Computer Engineering,09392317617
+Ashkan Mohammadi,99125565,4990213872,Computer Engineering,7788996655
+Ali Najafi,99124585,4990213977,Computer Engineering,564654654
+Erfan Qanbari,99145525,4990213977,Mechanic Engineering,09392317788
+yy,456,456,ghj,45646

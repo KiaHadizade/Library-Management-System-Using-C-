@@ -1,0 +1,83 @@
+C:\Users\npc\Desktop\C#\Library Management System\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\npc\Desktop\C#\Library Management System\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\npc\Desktop\C#\Library Management System\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\npc\Desktop\C#\Library Management System\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Library Management System.csprojResolveAssemblyReference.cache
+C:\Users\npc\Desktop\C#\Library Management System\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\npc\Desktop\C#\Library Management System\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\npc\Desktop\C#\Library Management System\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Library Management System.csproj.GenerateResource.Cache
+C:\Users\npc\Desktop\C#\Library Management System\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\npc\Desktop\C#\Library Management System\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\npc\Desktop\C#\Library Management System\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Dashboard.resources
+C:\Users\npc\Desktop\C#\Library Management System\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\npc\Desktop\C#\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\npc\Desktop\C#\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\npc\Desktop\C#\Library Management System\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\npc\Desktop\C#\Library Management System\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\npc\Desktop\C#\Library Management System\WindowsFormsApplication1\obj\Debug\Library Management System.csprojResolveAssemblyReference.cache
+C:\Users\npc\Desktop\C#\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Dashboard.resources
+C:\Users\npc\Desktop\C#\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\npc\Desktop\C#\Library Management System\WindowsFormsApplication1\obj\Debug\Library Management System.csproj.GenerateResource.Cache
+C:\Users\npc\Desktop\C#\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.LoginFrm.resources
+C:\Users\npc\Desktop\C#\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddBookFrm.resources
+C:\Users\npc\Desktop\C#\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ViewBooksFrm.resources
+C:\Users\npc\Desktop\C#\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddStudentFrm.resources
+C:\Users\npc\Desktop\C#\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ViewStudentsFrm.resources
+C:\Users\npc\Desktop\C#\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.IssueBookFrm.resources
+D:\Programming\C# & C++\Library Management System\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Programming\C# & C++\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Programming\C# & C++\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Programming\C# & C++\Library Management System\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Programming\C# & C++\Library Management System\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Programming\C# & C++\Library Management System\WindowsFormsApplication1\obj\Debug\Library Management System.csprojResolveAssemblyReference.cache
+D:\Programming\C# & C++\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.LoginFrm.resources
+D:\Programming\C# & C++\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Programming\C# & C++\Library Management System\WindowsFormsApplication1\obj\Debug\Library Management System.csproj.GenerateResource.Cache
+C:\Users\npc\Documents\Library Management System\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\npc\Documents\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\npc\Documents\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\npc\Documents\Library Management System\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\npc\Documents\Library Management System\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\npc\Documents\Library Management System\WindowsFormsApplication1\obj\Debug\Library Management System.csprojResolveAssemblyReference.cache
+C:\Users\npc\Documents\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DeleteForm.resources
+C:\Users\npc\Documents\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RegisterFrm.resources
+C:\Users\npc\Documents\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainForm.resources
+C:\Users\npc\Documents\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Dashboard.resources
+C:\Users\npc\Documents\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.IssueBookFrm.resources
+C:\Users\npc\Documents\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\npc\Documents\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MasterForm.resources
+C:\Users\npc\Documents\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ReturnBookFrm.resources
+C:\Users\npc\Documents\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UpdateForm.resources
+C:\Users\npc\Documents\Library Management System\WindowsFormsApplication1\obj\Debug\Library Management System.csproj.GenerateResource.Cache
+C:\Users\npc\Documents\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.LoginFrm.resources
+D:\Programming\C# & C++\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RegisterFrm.resources
+D:\Programming\C# & C++\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DashboardFrm.resources
+C:\Users\npc\Documents\Library Management System - back up\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\npc\Documents\Library Management System - back up\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\npc\Documents\Library Management System - back up\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\npc\Documents\Library Management System - back up\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\npc\Documents\Library Management System - back up\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\npc\Documents\Library Management System - back up\WindowsFormsApplication1\obj\Debug\Library Management System.csprojResolveAssemblyReference.cache
+C:\Users\npc\Documents\Library Management System - back up\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DashboardFrm.resources
+C:\Users\npc\Documents\Library Management System - back up\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DeleteForm.resources
+C:\Users\npc\Documents\Library Management System - back up\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Forms.CustomerFrm.resources
+C:\Users\npc\Documents\Library Management System - back up\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Forms.NotificationFrm.resources
+C:\Users\npc\Documents\Library Management System - back up\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Forms.OrderFrm.resources
+C:\Users\npc\Documents\Library Management System - back up\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Forms.ProductFrm.resources
+C:\Users\npc\Documents\Library Management System - back up\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Forms.ReportingFrm.resources
+C:\Users\npc\Documents\Library Management System - back up\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Forms.SettingFrm.resources
+C:\Users\npc\Documents\Library Management System - back up\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.LoginFrm.resources
+C:\Users\npc\Documents\Library Management System - back up\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RegisterFrm.resources
+C:\Users\npc\Documents\Library Management System - back up\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainForm.resources
+C:\Users\npc\Documents\Library Management System - back up\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Dashboard.resources
+C:\Users\npc\Documents\Library Management System - back up\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.IssueBookFrm.resources
+C:\Users\npc\Documents\Library Management System - back up\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\npc\Documents\Library Management System - back up\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MasterForm.resources
+C:\Users\npc\Documents\Library Management System - back up\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ReturnBookFrm.resources
+C:\Users\npc\Documents\Library Management System - back up\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UpdateForm.resources
+C:\Users\npc\Documents\Library Management System - back up\WindowsFormsApplication1\obj\Debug\Library Management System.csproj.GenerateResource.Cache
+D:\Programming\C# & C++\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Forms.MainFrm.resources
+D:\Programming\C# & C++\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Forms.AddDataFrm.resources
+D:\Programming\C# & C++\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Forms.IssueBookFrm.resources
+D:\Programming\C# & C++\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Forms.ReturnBookFrm.resources
+D:\Programming\C# & C++\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Forms.DeleteFrm.resources
+D:\Programming\C# & C++\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Forms.UpdateFrm.resources
