@@ -65,6 +65,18 @@
     <Compile Include="Forms\IssueBookFrm.Designer.cs">
       <DependentUpon>IssueBookFrm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Forms\LoginFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\LoginFrm.Designer.cs">
+      <DependentUpon>LoginFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\RegisterFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\RegisterFrm.Designer.cs">
+      <DependentUpon>RegisterFrm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Forms\UpdateFrm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -89,18 +101,6 @@
     <Compile Include="Forms\ReturnBookFrm.Designer.cs">
       <DependentUpon>ReturnBookFrm.cs</DependentUpon>
     </Compile>
-    <Compile Include="LoginFrm.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="LoginFrm.Designer.cs">
-      <DependentUpon>LoginFrm.cs</DependentUpon>
-    </Compile>
-    <Compile Include="RegisterFrm.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="RegisterFrm.Designer.cs">
-      <DependentUpon>RegisterFrm.cs</DependentUpon>
-    </Compile>
     <Compile Include="Books.cs" />
     <Compile Include="IssueBook.cs" />
     <Compile Include="Program.cs" />
@@ -116,6 +116,12 @@
     <EmbeddedResource Include="Forms\IssueBookFrm.resx">
       <DependentUpon>IssueBookFrm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Forms\LoginFrm.resx">
+      <DependentUpon>LoginFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\RegisterFrm.resx">
+      <DependentUpon>RegisterFrm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\UpdateFrm.resx">
       <DependentUpon>UpdateFrm.cs</DependentUpon>
     </EmbeddedResource>
@@ -127,12 +133,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\ReturnBookFrm.resx">
       <DependentUpon>ReturnBookFrm.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="LoginFrm.resx">
-      <DependentUpon>LoginFrm.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="RegisterFrm.resx">
-      <DependentUpon>RegisterFrm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

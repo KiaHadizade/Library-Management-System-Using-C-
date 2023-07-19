@@ -1,6 +1,6 @@
-﻿namespace WindowsFormsApplication1
+﻿namespace WindowsFormsApplication1.Forms
 {
-    partial class LoginFrm
+    partial class RegisterFrm
     {
         /// <summary>
         /// Required designer variable.
@@ -33,12 +33,13 @@
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.chckBxShoPass = new System.Windows.Forms.CheckBox();
+            this.txtComPswrd = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
             this.txtPswrd = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.txtUsrnm = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label6
@@ -47,9 +48,9 @@
             this.label6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(116)))), ((int)(((byte)(86)))), ((int)(((byte)(174)))));
             this.label6.Location = new System.Drawing.Point(95, 490);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(101, 17);
+            this.label6.Size = new System.Drawing.Size(92, 17);
             this.label6.TabIndex = 23;
-            this.label6.Text = "Create Account";
+            this.label6.Text = "Back to Login";
             this.label6.Click += new System.EventHandler(this.label6_Click);
             // 
             // label5
@@ -57,9 +58,9 @@
             this.label5.AutoSize = true;
             this.label5.Location = new System.Drawing.Point(75, 475);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(150, 17);
+            this.label5.Size = new System.Drawing.Size(163, 17);
             this.label5.TabIndex = 22;
-            this.label5.Text = "Don\'t Have an Account";
+            this.label5.Text = "Already Have an Account";
             // 
             // button2
             // 
@@ -86,7 +87,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(215, 40);
             this.button1.TabIndex = 20;
-            this.button1.Text = "LOGIN";
+            this.button1.Text = "REGISTER";
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -102,6 +103,27 @@
             this.chckBxShoPass.Text = "Show Password";
             this.chckBxShoPass.UseVisualStyleBackColor = true;
             this.chckBxShoPass.CheckedChanged += new System.EventHandler(this.chckBxShoPass_CheckedChanged);
+            // 
+            // txtComPswrd
+            // 
+            this.txtComPswrd.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(230)))), ((int)(((byte)(231)))), ((int)(((byte)(233)))));
+            this.txtComPswrd.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtComPswrd.Font = new System.Drawing.Font("MS UI Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtComPswrd.Location = new System.Drawing.Point(33, 260);
+            this.txtComPswrd.Multiline = true;
+            this.txtComPswrd.Name = "txtComPswrd";
+            this.txtComPswrd.PasswordChar = '•';
+            this.txtComPswrd.Size = new System.Drawing.Size(215, 30);
+            this.txtComPswrd.TabIndex = 18;
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(35, 240);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(120, 17);
+            this.label4.TabIndex = 17;
+            this.label4.Text = "Confirm Password";
             // 
             // txtPswrd
             // 
@@ -151,35 +173,23 @@
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(116)))), ((int)(((byte)(86)))), ((int)(((byte)(174)))));
             this.label1.Location = new System.Drawing.Point(35, 20);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(190, 27);
+            this.label1.Size = new System.Drawing.Size(155, 27);
             this.label1.TabIndex = 12;
-            this.label1.Text = "Welcome Back";
+            this.label1.Text = "Get Started";
             // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.label4.Font = new System.Drawing.Font("Nirmala UI", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.ForeColor = System.Drawing.Color.Red;
-            this.label4.Location = new System.Drawing.Point(150, 220);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(99, 13);
-            this.label4.TabIndex = 24;
-            this.label4.Text = "Forgot Password?";
-            this.label4.Click += new System.EventHandler(this.label4_Click);
-            // 
-            // LoginFrm
+            // RegisterFrm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(285, 545);
-            this.Controls.Add(this.label4);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.chckBxShoPass);
+            this.Controls.Add(this.txtComPswrd);
+            this.Controls.Add(this.label4);
             this.Controls.Add(this.txtPswrd);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.txtUsrnm);
@@ -188,10 +198,10 @@
             this.Font = new System.Drawing.Font("Nirmala UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(164)))), ((int)(((byte)(165)))), ((int)(((byte)(169)))));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(4);
-            this.Name = "LoginFrm";
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Name = "RegisterFrm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "LoginFrm";
+            this.Text = "RegisterFrm";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -204,11 +214,12 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.CheckBox chckBxShoPass;
+        private System.Windows.Forms.TextBox txtComPswrd;
+        private System.Windows.Forms.Label label4;
         private System.Windows.Forms.TextBox txtPswrd;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox txtUsrnm;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label label4;
     }
 }

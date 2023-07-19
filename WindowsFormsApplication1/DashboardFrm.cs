@@ -221,7 +221,7 @@ namespace WindowsFormsApplication1
         {
             if (MessageBox.Show("Do you want to logout?", "Confirm Logout", MessageBoxButtons.YesNo, MessageBoxIcon.Asterisk) == DialogResult.Yes)
             {
-                new LoginFrm().Show();
+                new Forms.LoginFrm().Show();
                 this.Hide();
             }
         }

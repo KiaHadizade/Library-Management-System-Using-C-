@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
 
-namespace WindowsFormsApplication1
+namespace WindowsFormsApplication1.Forms
 {
     public partial class LoginFrm : Form
     {
@@ -42,7 +42,7 @@ namespace WindowsFormsApplication1
                 new DashboardFrm().Show();
                 this.Hide();
                 MessageBox.Show("You're logedin successfully!", "Login Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                 
+
             }
             else
             {

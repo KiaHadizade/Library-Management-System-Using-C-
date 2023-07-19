@@ -81,3 +81,21 @@ D:\Programming\C# & C++\Library Management System\WindowsFormsApplication1\obj\D
 D:\Programming\C# & C++\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Forms.ReturnBookFrm.resources
 D:\Programming\C# & C++\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Forms.DeleteFrm.resources
 D:\Programming\C# & C++\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Forms.UpdateFrm.resources
+D:\Programming\Github Repository\Library Management System\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Programming\Github Repository\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Programming\Github Repository\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Programming\Github Repository\Library Management System\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Programming\Github Repository\Library Management System\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Programming\Github Repository\Library Management System\WindowsFormsApplication1\obj\Debug\Library Management System.csprojResolveAssemblyReference.cache
+D:\Programming\Github Repository\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DashboardFrm.resources
+D:\Programming\Github Repository\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Forms.AddDataFrm.resources
+D:\Programming\Github Repository\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Forms.IssueBookFrm.resources
+D:\Programming\Github Repository\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Forms.LoginFrm.resources
+D:\Programming\Github Repository\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Forms.UpdateFrm.resources
+D:\Programming\Github Repository\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Forms.MainFrm.resources
+D:\Programming\Github Repository\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Forms.DeleteFrm.resources
+D:\Programming\Github Repository\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Forms.ReturnBookFrm.resources
+D:\Programming\Github Repository\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RegisterFrm.resources
+D:\Programming\Github Repository\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Programming\Github Repository\Library Management System\WindowsFormsApplication1\obj\Debug\Library Management System.csproj.GenerateResource.Cache
+D:\Programming\Github Repository\Library Management System\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Forms.RegisterFrm.resources
